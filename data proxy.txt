@@ -1,0 +1,4 @@
+hostname: geo.iproyal.com
+proxy port: 12321
+username: dgQk19rhe9IfT5dQ
+password: HbzWVsg8EIRrQsyj_country-id
